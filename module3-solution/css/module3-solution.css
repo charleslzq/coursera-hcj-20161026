@@ -54,3 +54,11 @@
   clear: both;
   margin-top: -30px;
 }
+
+#main-content {
+    margin-top: 40px;
+}
+
+#texts {
+    height: 1000px;
+}
